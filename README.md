@@ -18,7 +18,7 @@ The masterclass was designed to provide participants with a comprehensive introd
 - **Dr. Rishikesh Yadav**, IIT Mandi
 - **Prof. Sarita Azad**, IIT Mandi
 - **Vedant Vibhor** (PhD Student at IIT Mandi, served as Teaching Assistant)
-- **Gaurav** (MTech. Student at IIT Mandi, Teaching Assistant)
+- **Gaurav** (MTech. Student at IIT Mandi, served as Teaching Assistant)
 
 ---
 
